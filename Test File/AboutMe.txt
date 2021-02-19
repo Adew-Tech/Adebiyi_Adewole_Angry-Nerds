@@ -1,40 +1,7 @@
-
-C:\Users\ADMIN>git status
-fatal: not a git repository (or any of the parent directories): .git
-
-C:\Users\ADMIN>git config --list --show-origin
-file:C:/Program Files/Git/etc/gitconfig diff.astextplain.textconv=astextplain
-file:C:/Program Files/Git/etc/gitconfig filter.lfs.clean=git-lfs clean -- %f
-file:C:/Program Files/Git/etc/gitconfig filter.lfs.smudge=git-lfs smudge -- %f
-file:C:/Program Files/Git/etc/gitconfig filter.lfs.process=git-lfs filter-process
-file:C:/Program Files/Git/etc/gitconfig filter.lfs.required=true
-file:C:/Program Files/Git/etc/gitconfig http.sslbackend=openssl
-file:C:/Program Files/Git/etc/gitconfig http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
-file:C:/Program Files/Git/etc/gitconfig core.autocrlf=true
-file:C:/Program Files/Git/etc/gitconfig core.fscache=true
-file:C:/Program Files/Git/etc/gitconfig core.symlinks=false
-file:C:/Program Files/Git/etc/gitconfig pull.rebase=false
-file:C:/Program Files/Git/etc/gitconfig credential.helper=manager-core
-file:C:/Program Files/Git/etc/gitconfig credential.https://dev.azure.com.usehttppath=true
-file:C:/Program Files/Git/etc/gitconfig init.defaultbranch=master
-file:C:/Users/ADMIN/.gitconfig  user.name=Adew-Tech
-file:C:/Users/ADMIN/.gitconfig  user.email=tobbyno21@gmail.com
-
-C:\Users\ADMIN>git config --global user.name Adew-Tech
-
-C:\Users\ADMIN>git config --global user.email tobbyno21@gmail.com
-
-C:\Users\ADMIN>git config user.name
-Adew-Tech
-
-C:\Users\ADMIN>git config user.email
-tobbyno21@gmail.com
-
-C:\Users\ADMIN>git clone https://github.com/Adew-Tech/Adebiyi_Adewole_Angry-Nerds
-Cloning into 'Adebiyi_Adewole_Angry-Nerds'...
-remote: Enumerating objects: 3, done.
-remote: Counting objects: 100% (3/3), done.
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-Receiving objects: 100% (3/3), done.
-
-C:\Users\ADMIN>
+ICT Personnel
+Project mgt
+Networking
+Consultant
+Online Publicity
+System and Accessories
+Data Entry
